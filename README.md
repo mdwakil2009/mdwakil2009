@@ -2,170 +2,126 @@
 
 ### 💻 Frontend Developer | JavaScript | TypeScript | React.js | Next.js
 
-
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
-
-I enjoy turning ideas into real-world projects, learning new technologies, and improving my problem-solving skills through hands-on development.
-
-* 🌱 Currently learning and improving **React.js & Next.js**
-* 💻 Building modern and responsive web applications
-* 🟨 Working with **JavaScript & TypeScript**
-* ⚛️ Developing reusable React components
-* ▲ Exploring **Next.js & modern web development**
-* 🎨 Creating responsive interfaces with **Tailwind CSS**
-* 🔗 Working with APIs and asynchronous JavaScript
-* 📚 Continuously improving my frontend development skills
-* 🚀 Working toward becoming a **Professional Full-Stack Developer**
-
----
-
-## 🛠️ Technologies & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
-### Core Technologies
+---
 
-| Technology      | Level / Focus                            |
-| --------------- | ---------------------------------------- |
-| 🌐 HTML5        | Semantic & Accessible Structure          |
-| 🎨 CSS3         | Responsive Web Design                    |
-| 🟨 JavaScript   | ES6+, DOM, Async JS, APIs                |
-| 🔷 TypeScript   | Types, Interfaces & Modern TS            |
-| ⚛️ React.js     | Components, Props, State & Hooks         |
-| ▲ Next.js       | App Router, Routing, Data Fetching & SEO |
-| 🎨 Tailwind CSS | Responsive & Modern UI                   |
-| 🔗 REST API     | Fetching & Working with API Data         |
-| 🔧 Git          | Version Control                          |
-| 🐙 GitHub       | Repository & Collaboration               |
-| 💻 VS Code      | Development Environment                  |
+## 🚀 About Me
+
+I'm a passionate **Frontend Developer** who loves building modern, responsive, and user-friendly web applications.
+
+I enjoy learning through real-world projects, solving programming problems, and continuously improving my development skills.
+
+* 💻 Focused on **Frontend Development**
+* ⚛️ Building applications with **React.js**
+* ▲ Exploring modern **Next.js** development
+* 🟨 Working with **JavaScript & TypeScript**
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🔗 Working with APIs and dynamic data
+* 🧩 Interested in reusable and scalable UI
+* 📚 Learning new technologies through hands-on projects
+* 🚀 Working toward becoming a **Professional Full-Stack Developer**
 
 ---
 
-## ⚛️ React.js Skills
+## 🛠️ Tech Stack
 
-Currently working with:
-
-* JSX & Components
-* Props & State
-* Event Handling
-* Conditional Rendering
-* Array Methods — `map`, `filter`, `find`, `reduce`
-* React Hooks
-* Context API
-* Custom Hooks
-* API Data Fetching
-* CRUD Operations
-* Suspense
-* Responsive UI
-* Reusable Components
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode&perline=5" />
+</p>
 
 ---
 
-## ▲ Next.js Skills
+## 🔭 What I'm Working On
 
-Currently learning and practicing:
-
-* Next.js App Router
-* File-based Routing
-* Dynamic Routes
-* Layouts
-* Server Components
-* Client Components
-* Data Fetching
-* `async/await`
-* `Link` Navigation
-* `notFound()`
-* Metadata & SEO
-* Next.js Image Optimization
-* Loading & Error Handling
+* 🚀 Building modern frontend projects
+* ⚛️ Developing React applications
+* ▲ Practicing Next.js App Router
+* 🎨 Creating responsive UI with Tailwind CSS
+* 🔗 Working with REST APIs
+* 🧩 Building reusable components
+* 🧠 Improving problem-solving and coding skills
+* 📚 Learning modern web development practices
 
 ---
 
-## 📚 JavaScript & TypeScript
-
-### JavaScript
-
-* Variables & Data Types
-* Functions
-* Scope
-* Loops
-* Array Methods
-* Objects
-* ES6+
-* Destructuring
-* Spread & Rest Operators
-* Promises
-* Async/Await
-* Fetch API
-* Event Loop
-* DOM Manipulation
-
-### TypeScript
-
-* Basic Types
-* Type Aliases
-* Interfaces
-* Union Types
-* Function Types
-* Generics
-* Utility Types
-* Type-safe React Components
-
----
-
-## 🚀 Current Focus
+## 💡 Development Approach
 
 ```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
-TypeScript
-     ↓
-React.js
-     ↓
-Next.js
-     ↓
-Full-Stack Development 🚀
+Understand the Problem
+        ↓
+Plan the Solution
+        ↓
+Build the UI
+        ↓
+Write Clean Code
+        ↓
+Test & Debug
+        ↓
+Improve & Refactor
+        ↓
+Deploy 🚀
 ```
 
-I'm currently focused on strengthening my **React and Next.js** skills by building real-world projects and practicing modern frontend development patterns.
+I believe in **learning by building** and improving through consistent practice.
 
 ---
 
-## 💡 What I Like to Build
+## 🌱 Currently Exploring
 
-* 🌐 Responsive Websites
-* ⚛️ React Applications
-* ▲ Next.js Applications
-* 📊 Dashboard Interfaces
-* 🔗 API-Based Applications
-* 🧩 Reusable Component Systems
-* 📱 Mobile-Friendly UI
-* 🚀 Modern Frontend Projects
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,git" />
+
+</p>
+
+I'm currently focusing on:
+
+* Modern React development
+* Next.js App Router
+* Type-safe development with TypeScript
+* Responsive UI development
+* API integration
+* Component architecture
+* Git & GitHub workflow
 
 ---
 
-## 📊 GitHub Statistics
+## 🧩 Featured Projects
+
+### 🌍 World On The Go
+
+A React + TypeScript project where users can explore countries, view country information, and interact with country flags.
+
+**Built with:** React.js • TypeScript • Tailwind CSS • API
+
+---
+
+### 🧑‍💻 Developer Stack
+
+A modern technology-card application where users can explore technologies and create their own development stack.
+
+**Built with:** React.js • TypeScript • Tailwind CSS • DaisyUI
+
+---
+
+### 🏏 BPL Dream
+
+A React + TypeScript based player selection application with player management, coin balance, selection limits, and interactive UI.
+
+**Built with:** React.js • TypeScript • Tailwind CSS
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mdwakil2009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Wakil's GitHub Stats"/>
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=mdwakil2009&theme=tokyonight&hide_border=true" alt="Wakil's GitHub Streak"/>
 
@@ -183,7 +139,7 @@ I'm currently focused on strengthening my **React and Next.js** skills by buildi
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
 
@@ -193,17 +149,40 @@ I'm currently focused on strengthening my **React and Next.js** skills by buildi
 
 ---
 
-## 🧰 My Tech Stack
+## 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode&perline=5" />
-
-</p>
+* 🚀 Become highly confident in React.js
+* ▲ Build production-ready Next.js applications
+* 🧠 Improve JavaScript & TypeScript fundamentals
+* 💻 Build more real-world projects
+* 🔗 Improve API integration skills
+* 🧩 Write cleaner and reusable code
+* 🌐 Build a strong developer portfolio
+* 📚 Continue learning Full-Stack Development
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 My Learning Philosophy
+
+> **Don't just learn the technology — build with it.**
+
+```text
+Learn 📚
+   ↓
+Practice 💻
+   ↓
+Build 🚀
+   ↓
+Make Mistakes 🧠
+   ↓
+Fix & Improve 🔧
+   ↓
+Grow 🌱
+```
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
 
@@ -215,35 +194,10 @@ I'm currently focused on strengthening my **React and Next.js** skills by buildi
 
 ---
 
-## 🎯 My Goal
-
-> **Learn → Build → Improve → Repeat**
-
-```text
-📚 Keep Learning
-       ↓
-💻 Keep Building
-       ↓
-🧠 Keep Improving
-       ↓
-🚀 Become a Professional Full-Stack Developer
-```
-
----
-
-## ⚡ Fun Fact
-
-```text
-I believe the best way to learn programming
-is to build real projects. 💻🚀
-```
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build something amazing together 🚀**
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
