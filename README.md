@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="670520320_122105030258848454_6077702172813920004_n.jpg" alt="sdlfj">
+  <img src="670520320_122105030258848454_6077702172813920004_n.jpg" alt="sdlfj" height="700px" width="500px">
 </p>
 # 👋 Hi, I'm Wakil Ahmed
 
