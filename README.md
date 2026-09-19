@@ -1,11 +1,4 @@
-<p align="center">
-  <img
-    src="670520320_122105030258848454_6077702172813920004_n.jpg"
-    alt="Profile Banner"
-    width="100%"
-    height="400"
-  />
-</p>
+
 # 👋 Hi, I'm Wakil Ahmed
 
 ### 💻 Frontend Developer | JavaScript & TypeScript | React & Next.js
