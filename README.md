@@ -2,9 +2,7 @@
 
 ### 💻 Frontend Developer | JavaScript & TypeScript | React & Next.js
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdwakil2009&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
