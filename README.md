@@ -1,58 +1,160 @@
-
 # 👋 Hi, I'm Wakil Ahmed
 
-### 💻 Frontend Developer | JavaScript & TypeScript | React & Next.js
+### 💻 Frontend Developer | JavaScript | TypeScript | React.js | Next.js
 
-
+<p align="left">
+  <a href="https://github.com/mdwakil2009">
+    <img src="https://img.shields.io/github/followers/mdwakil2009?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdwakil2009&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies, solving programming problems, and turning ideas into real-world projects.
+I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
 
-- 🌱 I'm currently learning **React.js**
-- 🚀 I'm exploring **Next.js**
-- 💻 I'm working on building responsive and modern web applications
-- 📚 I'm continuously improving my **JavaScript and Frontend Development** skills
-- 🎯 My goal is to become a professional **Full-Stack Developer**
-- ⚡ I enjoy learning by building real-world projects
+I enjoy turning ideas into real-world projects, learning new technologies, and improving my problem-solving skills through hands-on development.
+
+* 🌱 Currently learning and improving **React.js & Next.js**
+* 💻 Building modern and responsive web applications
+* 🟨 Working with **JavaScript & TypeScript**
+* ⚛️ Developing reusable React components
+* ▲ Exploring **Next.js & modern web development**
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🔗 Working with APIs and asynchronous JavaScript
+* 📚 Continuously improving my frontend development skills
+* 🚀 Working toward becoming a **Professional Full-Stack Developer**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
+### Core Technologies
+
+| Technology      | Level / Focus                            |
+| --------------- | ---------------------------------------- |
+| 🌐 HTML5        | Semantic & Accessible Structure          |
+| 🎨 CSS3         | Responsive Web Design                    |
+| 🟨 JavaScript   | ES6+, DOM, Async JS, APIs                |
+| 🔷 TypeScript   | Types, Interfaces & Modern TS            |
+| ⚛️ React.js     | Components, Props, State & Hooks         |
+| ▲ Next.js       | App Router, Routing, Data Fetching & SEO |
+| 🎨 Tailwind CSS | Responsive & Modern UI                   |
+| 🔗 REST API     | Fetching & Working with API Data         |
+| 🔧 Git          | Version Control                          |
+| 🐙 GitHub       | Repository & Collaboration               |
+| 💻 VS Code      | Development Environment                  |
+
 ---
 
-## 🚀 Current Activities
+## ⚛️ React.js Skills
 
-- 🔭 I'm currently working on **Frontend Development Projects**
-- 🌱 I'm currently exploring **Next.js**
-- ⚛️ I'm building projects with **React.js**
-- 🧩 I'm practicing **TypeScript**
-- 📖 I'm learning how to build **scalable and reusable components**
-- 🎨 I'm practicing responsive UI with **Tailwind CSS**
-- 🔧 I'm improving my **Git and GitHub** workflow
+Currently working with:
+
+* JSX & Components
+* Props & State
+* Event Handling
+* Conditional Rendering
+* Array Methods — `map`, `filter`, `find`, `reduce`
+* React Hooks
+* Context API
+* Custom Hooks
+* API Data Fetching
+* CRUD Operations
+* Suspense
+* Responsive UI
+* Reusable Components
 
 ---
 
-## 📚 Currently Learning
+## ▲ Next.js Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
-</p>
+Currently learning and practicing:
 
-- ⚛️ React.js
-- ▲ Next.js
-- 🟦 TypeScript
-- 🟨 JavaScript
-- 🎨 Tailwind CSS
-- 🔗 REST API
-- 📦 Git & GitHub
+* Next.js App Router
+* File-based Routing
+* Dynamic Routes
+* Layouts
+* Server Components
+* Client Components
+* Data Fetching
+* `async/await`
+* `Link` Navigation
+* `notFound()`
+* Metadata & SEO
+* Next.js Image Optimization
+* Loading & Error Handling
+
+---
+
+## 📚 JavaScript & TypeScript
+
+### JavaScript
+
+* Variables & Data Types
+* Functions
+* Scope
+* Loops
+* Array Methods
+* Objects
+* ES6+
+* Destructuring
+* Spread & Rest Operators
+* Promises
+* Async/Await
+* Fetch API
+* Event Loop
+* DOM Manipulation
+
+### TypeScript
+
+* Basic Types
+* Type Aliases
+* Interfaces
+* Union Types
+* Function Types
+* Generics
+* Utility Types
+* Type-safe React Components
+
+---
+
+## 🚀 Current Focus
+
+```text
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+TypeScript
+     ↓
+React.js
+     ↓
+Next.js
+     ↓
+Full-Stack Development 🚀
+```
+
+I'm currently focused on strengthening my **React and Next.js** skills by building real-world projects and practicing modern frontend development patterns.
+
+---
+
+## 💡 What I Like to Build
+
+* 🌐 Responsive Websites
+* ⚛️ React Applications
+* ▲ Next.js Applications
+* 📊 Dashboard Interfaces
+* 🔗 API-Based Applications
+* 🧩 Reusable Component Systems
+* 📱 Mobile-Friendly UI
+* 🚀 Modern Frontend Projects
 
 ---
 
@@ -60,7 +162,7 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdwakil2009&show_icons=true&theme=tokyonight&hide_border=true" alt="Wakil's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mdwakil2009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Wakil's GitHub Stats"/>
 
 </div>
 
@@ -70,7 +172,7 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mdwakil2009&theme=tokyonight&hide_border=true" alt="Wakil's GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mdwakil2009&theme=tokyonight&hide_border=true" alt="Wakil's GitHub Streak"/>
 
 </div>
 
@@ -80,7 +182,7 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwakil2009&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwakil2009&layout=compact&theme=tokyonight&hide_border=true" alt="Wakil's Most Used Languages"/>
 
 </div>
 
@@ -90,102 +192,19 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwakil2009&theme=tokyo-night&hide_border=true" alt="Wakil's Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwakil2009&theme=tokyo-night&hide_border=true" alt="Wakil's Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Skills
+## 🧰 My Tech Stack
 
-<table>
-<tr>
-<td align="center" width="120">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode&perline=5" />
 
-<br>HTML
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-
-<br>CSS
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-
-<br>JavaScript
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=typescript" width="50"/>
-
-<br>TypeScript
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-
-<br>React
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-
-<br>Next.js
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-
-<br>Tailwind
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-
-<br>Git
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-
-<br>GitHub
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-
-<br>VS Code
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -203,11 +222,33 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 ## 🎯 My Goal
 
+> **Learn → Build → Improve → Repeat**
+
 ```text
-Keep Learning
-      ↓
-Keep Building
-      ↓
-Keep Improving
-      ↓
-Become a Professional Full-Stack Developer 🚀
+📚 Keep Learning
+       ↓
+💻 Keep Building
+       ↓
+🧠 Keep Improving
+       ↓
+🚀 Become a Professional Full-Stack Developer
+```
+
+---
+
+## ⚡ Fun Fact
+
+```text
+I believe the best way to learn programming
+is to build real projects. 💻🚀
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together 🚀**
+
+</div>
