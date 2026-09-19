@@ -2,12 +2,7 @@
 
 ### 💻 Frontend Developer | JavaScript | TypeScript | React.js | Next.js
 
-<p align="left">
-  <a href="https://github.com/mdwakil2009">
-    <img src="https://img.shields.io/github/followers/mdwakil2009?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mdwakil2009&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+
 
 ---
 
