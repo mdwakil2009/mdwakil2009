@@ -122,10 +122,10 @@ Users can browse workouts, explore detailed workout information, create a daily 
 </p>
 
 **Live Demo:**
-https://b14-a6-fit-log-iota.vercel.app/
+https://assigment-06-5xa1.vercel.app/
 
 **GitHub Repository:**
-https://github.com/mdwakil2009/B14-A6-Fit-Log
+https://github.com/mdwakil2009/assigment-06
 
 ---
 
@@ -150,7 +150,7 @@ https://github.com/mdwakil2009/B14-A6-Fit-Log
 </p>
 
 **GitHub Repository:**
-https://github.com/mdwakil2009/Assignment-05
+https://github.com/mdwakil2009/assigment-06
 
 ---
 
