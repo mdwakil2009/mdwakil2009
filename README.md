@@ -1,203 +1,210 @@
-# 👋 Hi, I'm Wakil Ahmed
-
-### 💻 Frontend Developer | JavaScript | TypeScript | React.js | Next.js
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Frontend Developer** who loves building modern, responsive, and user-friendly web applications.
-
-I enjoy learning through real-world projects, solving programming problems, and continuously improving my development skills.
-
-* 💻 Focused on **Frontend Development**
-* ⚛️ Building applications with **React.js**
-* ▲ Exploring modern **Next.js** development
-* 🟨 Working with **JavaScript & TypeScript**
-* 🎨 Creating responsive interfaces with **Tailwind CSS**
-* 🔗 Working with APIs and dynamic data
-* 🧩 Interested in reusable and scalable UI
-* 📚 Learning new technologies through hands-on projects
-* 🚀 Working toward becoming a **Professional Full-Stack Developer**
-
----
-
-## 🛠️ Tech Stack
+````md
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode&perline=5" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=WAKIL%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20&animation=fadeIn&color=0:111827,50:1F2937,100:84CC16"
+    width="100%"
+  />
 </p>
-
----
-
-## 🔭 What I'm Working On
-
-* 🚀 Building modern frontend projects
-* ⚛️ Developing React applications
-* ▲ Practicing Next.js App Router
-* 🎨 Creating responsive UI with Tailwind CSS
-* 🔗 Working with REST APIs
-* 🧩 Building reusable components
-* 🧠 Improving problem-solving and coding skills
-* 📚 Learning modern web development practices
-
----
-
-## 💡 Development Approach
-
-```text
-Understand the Problem
-        ↓
-Plan the Solution
-        ↓
-Build the UI
-        ↓
-Write Clean Code
-        ↓
-Test & Debug
-        ↓
-Improve & Refactor
-        ↓
-Deploy 🚀
-```
-
-I believe in **learning by building** and improving through consistent practice.
-
----
-
-## 🌱 Currently Exploring
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,git" />
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=84CC16&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Frontend+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Developer;Building+Modern+Web+Applications;Future+Full-Stack+Developer"
+    alt="Typing Animation"
+  />
 </p>
 
-I'm currently focusing on:
+<p align="center">
+  <a href="https://github.com/mdwakil2009">
+    <img src="https://img.shields.io/github/followers/mdwakil2009?label=Followers&style=for-the-badge&logo=github&color=84CC16&labelColor=111827" />
+  </a>
 
-* Modern React development
-* Next.js App Router
-* Type-safe development with TypeScript
-* Responsive UI development
+  <img src="https://komarev.com/ghpvc/?username=mdwakil2009&style=for-the-badge&color=84CC16&label=PROFILE+VIEWS" />
+
+  <img src="https://img.shields.io/github/stars/mdwakil2009?label=Stars&style=for-the-badge&logo=github&color=84CC16&labelColor=111827" />
+</p>
+
+---
+
+# 👋 Hello, I'm Wakil Ahmed
+
+### Frontend Developer | JavaScript & TypeScript | React & Next.js
+
+I'm a passionate **Frontend Developer** who enjoys building modern, responsive and user-friendly web applications.
+
+I am continuously improving my skills through real-world projects, problem solving and consistent practice.
+
+My long-term goal is to become a **professional Full-Stack Developer**.
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const wakil = {
+  name: "Wakil Ahmed",
+  location: "Bangladesh",
+  role: "Frontend Developer",
+
+  skills: [
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma"
+  ],
+
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Backend Development"
+  ],
+
+  goal: "Full-Stack Developer",
+
+  hobbies: [
+    "Coding",
+    "Football",
+    "Learning New Technologies"
+  ],
+
+  motto: "Learn every day. Build every day."
+};
+````
+
+### 🚀 What I'm Doing
+
+* 💻 Learning and building with **Modern Web Technologies**
+* ⚛️ Working with **React & Next.js**
+* 📘 Improving my **JavaScript & TypeScript** skills
+* 🎨 Building clean and responsive **User Interfaces**
+* 🧠 Practicing problem solving through projects
+* 🚀 Working toward becoming a **Full-Stack Developer**
+* ⚽ I enjoy **playing football**
+
+---
+
+# 🛠️ Tech Stack
+
+## 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+## 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+# 💡 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Applications
+
+* Responsive websites
+* Modern web applications
+* API-based applications
+* Reusable components
+* Clean project architecture
+
+</td>
+
+<td width="50%">
+
+### ⚛️ React Applications
+
+* Component-based UI
+* React Hooks
+* State management
 * API integration
-* Component architecture
-* Git & GitHub workflow
+* Interactive interfaces
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ▲ Next.js Applications
+
+* App Router
+* Dynamic Routing
+* Server Components
+* Data Fetching
+* Responsive applications
+
+</td>
+
+<td width="50%">
+
+### 🎨 UI Development
+
+* Tailwind CSS
+* Responsive Design
+* Mobile-first layouts
+* Clean UI
+* User-friendly interfaces
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Featured Projects
+# 🚀 Featured Projects
 
-### 🌍 World On The Go
+## 🏋️ FitLog — Workout Library
 
-A React + TypeScript project where users can explore countries, view country information, and interact with country flags.
+> A dark-themed workout tracking web application for exploring workouts, creating daily plans and saving favorite exercises.
 
-**Built with:** React.js • TypeScript • Tailwind CSS • API
+### ✨ Features
 
----
+* 🏋️ Browse workout library
+* 🔎 View detailed workout information
+* 📋 Create a **Today's Plan**
+* ❤️ Save workouts for later
+* 📊 Sort workouts
+* ✅ Mark workouts as completed
+* 📱 Fully responsive design
+* 💾 Persistent client-side data
 
-### 🧑‍💻 Developer Stack
+### 🛠️ Technologies
 
-A modern technology-card application where users can explore technologies and create their own development stack.
-
-**Built with:** React.js • TypeScript • Tailwind CSS • DaisyUI
-
----
-
-### 🏏 BPL Dream
-
-A React + TypeScript based player selection application with player management, coin balance, selection limits, and interactive UI.
-
-**Built with:** React.js • TypeScript • Tailwind CSS
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdwakil2009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Wakil's GitHub Stats"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mdwakil2009&theme=tokyonight&hide_border=true" alt="Wakil's GitHub Streak"/>
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwakil2009&layout=compact&theme=tokyonight&hide_border=true" alt="Wakil's Most Used Languages"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwakil2009&theme=tokyo-night&hide_border=true" alt="Wakil's Contribution Graph"/>
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Become highly confident in React.js
-* ▲ Build production-ready Next.js applications
-* 🧠 Improve JavaScript & TypeScript fundamentals
-* 💻 Build more real-world projects
-* 🔗 Improve API integration skills
-* 🧩 Write cleaner and reusable code
-* 🌐 Build a strong developer portfolio
-* 📚 Continue learning Full-Stack Development
-
----
-
-## 🧠 My Learning Philosophy
-
-> **Don't just learn the technology — build with it.**
-
-```text
-Learn 📚
-   ↓
-Practice 💻
-   ↓
-Build 🚀
-   ↓
-Make Mistakes 🧠
-   ↓
-Fix & Improve 🔧
-   ↓
-Grow 🌱
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://github.com/mdwakil2009">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
 </p>
 
+🔗 **Live Demo:**
+https://b14-a6-fit-log-iota.vercel.app/
+
+🔗 **GitHub Repository:**
+https://github.com/mdwakil2009/B14-A6-Fit-Log
+
 ---
 
-<div align="center">
+## 💻 DevStack
 
-### ⭐ Thanks for visiting my profile!
+> A responsive React application for exploring modern web technologies and creating a personalized technology stack.
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+### ✨ Features
 
-</div>
+* 🧩 Browse technologies
