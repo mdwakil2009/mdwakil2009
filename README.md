@@ -1,15 +1,4 @@
-<img src="watermarked_img_1051910902458581509.jpg" alt="wakil" />
-
-
-
-<!-- ===================== HEADER ===================== -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Wakil%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=62&descSize=18&animation=fadeIn&color=0:111827,45:1F2937,75:C2F800,100:2563EB"
-    width="100%"
-  />
-</p>
+<img src="watermarked_img_1051910902458581509.jpg" alt="Wakil Ahmed" width="100%" />
 
 <p align="center">
   <img
@@ -24,20 +13,6 @@
   <sub>Learning • Building • Improving • Repeating</sub>
 </p>
 
-<p align="center">
-
-<a href="https://github.com/mdwakil2009">
-  <img src="https://img.shields.io/github/followers/mdwakil2009?style=for-the-badge&logo=github&label=Followers&color=C2F800&labelColor=111827" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=mdwakil2009&style=for-the-badge&color=C2F800&label=Profile+Views" />
-
-<a href="https://github.com/mdwakil2009?tab=repositories">
-  <img src="https://img.shields.io/github/stars/mdwakil2009?style=for-the-badge&logo=github&label=Stars&color=C2F800&labelColor=111827" />
-</a>
-
-</p>
-
 ---
 
 # 👋 About Me
@@ -50,143 +25,72 @@ I enjoy turning ideas into real projects, solving programming problems and conti
 
 My long-term goal is to become a **professional Full-Stack Developer**.
 
-
-# ⚡ Currently Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Frontend Development
-
-* Responsive Web Applications
-* HTML & CSS
-* Tailwind CSS
-* JavaScript
-* TypeScript
-* Reusable Components
-
-</td>
-
-<td width="50%">
-
-### ⚛️ React & Next.js
-
-* React Components
-* React Hooks
-* State Management
-* Next.js App Router
-* Dynamic Routing
-* Server & Client Components
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🔌 API & Data
-
-* REST API Integration
-* Fetch API
-* JSON Data
-* Data Fetching
-* Error Handling
-* Loading States
-
-</td>
-
-<td>
-
-### 📚 Learning
-
-* Advanced JavaScript
-* TypeScript
-* Next.js
-* Backend Development
-* Node.js
-* MongoDB
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 💻 Tech Stack
-
-## 🌐 Web Development
+# 🛠️ Technologies I Have Learned
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
-| Area         | Technologies                           |
-| ------------ | -------------------------------------- |
-| Frontend     | React, Next.js, JavaScript, TypeScript |
-| Markup       | HTML5, CSS3                            |
-| Styling      | Tailwind CSS, daisyUI                  |
-| Routing      | Next.js App Router, Dynamic Routing    |
-| Data         | REST APIs, JSON                        |
-| UI           | Responsive Web Design                  |
-| Concepts     | SSR, CSR, SSG, ISR, Hydration          |
-| Architecture | Reusable & Component-Based Development |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+<p align="center">
+  <sub>
+    HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js
+    <br/>
+    Git • GitHub • VS Code • Figma • Vercel • Node.js • MongoDB
+  </sub>
+</p>
 
 ---
 
-## 🛠️ Development Tools
+# 💻 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+### ⚡ What I Can Work With
+
+* 🌐 HTML5 & Semantic HTML
+* 🎨 CSS3
+* 💨 Tailwind CSS
+* 🟨 JavaScript
+* 🔷 TypeScript
+* ⚛️ React
+* ▲ Next.js
+* 📱 Responsive Web Design
+* 🧩 Reusable Components
+* 🔀 Dynamic Routing
+* 🔌 REST API Integration
+* 📡 Data Fetching
+* 🖥️ SSR / CSR
+* ⚡ SSG / ISR
+* 💧 Hydration
+* 🐛 Debugging
+
+---
+
+# 🧰 Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
-| Tool    | Purpose                      |
-| ------- | ---------------------------- |
-| Git     | Version Control              |
-| GitHub  | Code Hosting & Collaboration |
-| VS Code | Development Environment      |
-| Figma   | UI Design & Reference        |
-| Vercel  | Deployment                   |
-
----
-
-# 🧩 Core Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-
-</p>
-
-### 🎯 Development Skills
-
-* ♻️ Reusable Components
-* 📱 Responsive Web Design
-* 🔌 REST API Integration
-* 🧩 Component-Based Architecture
-* 🗂️ State Management
-* 🔀 Dynamic Routing
-* 🖥️ Server & Client Rendering
-* ⚡ Data Fetching
-* 🐛 Debugging
-* 🧠 Problem Solving
-* 🔧 Git & GitHub Workflow
+| Tool    | Purpose               |
+| ------- | --------------------- |
+| Git     | Version Control       |
+| GitHub  | Code Hosting          |
+| VS Code | Development           |
+| Figma   | UI Reference & Design |
+| Vercel  | Deployment            |
 
 ---
 
@@ -213,7 +117,9 @@ Users can browse workouts, explore detailed workout information, create a daily 
 
 ### 🛠️ Technologies
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `REST API`
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
 
 **Live Demo:**
 https://b14-a6-fit-log-iota.vercel.app/
@@ -239,7 +145,9 @@ https://github.com/mdwakil2009/B14-A6-Fit-Log
 
 ### 🛠️ Technologies
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `daisyUI`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" />
+</p>
 
 **GitHub Repository:**
 https://github.com/mdwakil2009/Assignment-05
@@ -266,24 +174,6 @@ I'm continuously improving my development skills and currently focusing on:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=mdwakil2009&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C2F800&icon_color=C2F800&text_color=C9D1D9"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwakil2009&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C2F800&text_color=C9D1D9"
-width="48%"
-/>
-
-</p>
-
----
-
 # 🔥 Contribution Activity
 
 <p align="center">
@@ -300,19 +190,6 @@ width="70%"
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=mdwakil2009&theme=github-dark&hide_border=true&area=true"
 width="100%"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=mdwakil2009&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
-width="90%"
 />
 
 </p>
