@@ -1,4 +1,4 @@
-<img src="watermarked_img_1051910902458581509.jpg" alt="Wakil Ahmed" width="100%" />
+<img src="Gemini_Generated_Image_s9djhxs9djhxs9dj.jpg" alt="Wakil Ahmed" width="100%" />
 
 <p align="center">
   <img
