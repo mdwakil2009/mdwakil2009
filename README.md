@@ -76,24 +76,6 @@ My long-term goal is to become a **professional Full-Stack Developer**.
 * 💧 Hydration
 * 🐛 Debugging
 
----
-
-# 🧰 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-</p>
-
-| Tool    | Purpose               |
-| ------- | --------------------- |
-| Git     | Version Control       |
-| GitHub  | Code Hosting          |
-| VS Code | Development           |
-| Figma   | UI Reference & Design |
-| Vercel  | Deployment            |
-
----
-
 # 🚀 Featured Projects
 
 ## 🏋️ FitLog — Workout Library
@@ -220,23 +202,6 @@ Full-Stack Developer 🚀
 
 ---
 
-# 🎯 2026 Goals
-
-* [x] Learn HTML & CSS
-* [x] Learn Tailwind CSS
-* [x] Learn JavaScript Fundamentals
-* [x] Learn React Fundamentals
-* [x] Learn TypeScript Fundamentals
-* [x] Build Real-World Projects
-* [x] Learn Next.js Fundamentals
-* [ ] Master Advanced JavaScript
-* [ ] Become Stronger in TypeScript
-* [ ] Master Next.js
-* [ ] Learn Node.js & Express
-* [ ] Learn MongoDB
-* [ ] Build Full-Stack Applications
-* [ ] Become a Professional Full-Stack Developer
-
 ---
 
 # 🧠 What I Believe
@@ -285,11 +250,4 @@ When I'm not coding, I enjoy:
 
 **Thanks for visiting my GitHub profile! ❤️**
 
-</p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:C2F800,100:1F2937"
-    width="100%"
-  />
-</p>
