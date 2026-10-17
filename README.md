@@ -368,10 +368,6 @@ Explore developer technologies and technology stacks.
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=mdwakil2009&style=flat-square&color=C2F800&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br/><br/>
-
   **Thanks for visiting my profile!**  
   *Let's learn, build, and grow together.* 🚀
 
