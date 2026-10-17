@@ -33,6 +33,7 @@
 
 
 
+
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -40,8 +41,7 @@
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Developer Coding Animation"
-    width="100%"
-    style="max-width: 800px; border-radius: 12px;"
+    width="450"
   />
 
   <br/><br/>
@@ -53,29 +53,20 @@
 
   🎓 Diploma Student in Computer Science & Technology
 
-  <br/><br/>
-
   ⚛️ Building web applications with React.js and Next.js
-
-  <br/><br/>
 
   💻 Working with JavaScript, TypeScript, and Tailwind CSS
 
-  <br/><br/>
-
   🔧 Exploring APIs, Node.js, Express.js, and databases
 
-  <br/><br/>
-
   🚀 Focused on growing as a Full-Stack Developer
-
-  <br/><br/>
 
   🌱 Learning through hands-on projects and continuous practice
 
 </div>
 
 ---
+
 
 
 
