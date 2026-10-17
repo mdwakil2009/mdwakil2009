@@ -1,4 +1,12 @@
 
+<div align="center">
+  <img
+    src="./wakilahmed.webp"
+    alt="Wakil Ahmed - Developer Banner"
+    width="100%"
+  />
+</div>
+
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
