@@ -32,11 +32,19 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 
+
 ## 👨‍💻 About Me
 
 <div align="center">
 
-  <img alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Developer Coding Animation"
+    width="100%"
+    style="max-width: 800px; border-radius: 12px;"
+  />
+
+  <br/><br/>
 
   <p>
     I'm a Computer Science and Technology diploma student from Bangladesh,<br/>
@@ -45,29 +53,30 @@
 
   🎓 Diploma Student in Computer Science & Technology
 
-  <br/>
+  <br/><br/>
 
   ⚛️ Building web applications with React.js and Next.js
 
-  <br/>
+  <br/><br/>
 
   💻 Working with JavaScript, TypeScript, and Tailwind CSS
 
-  <br/>
+  <br/><br/>
 
   🔧 Exploring APIs, Node.js, Express.js, and databases
 
-  <br/>
+  <br/><br/>
 
   🚀 Focused on growing as a Full-Stack Developer
 
-  <br/>
+  <br/><br/>
 
   🌱 Learning through hands-on projects and continuous practice
 
 </div>
 
 ---
+
 
 
 <!-- ===================== TECH STACK ===================== -->
