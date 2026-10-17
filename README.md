@@ -235,6 +235,43 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🛒 Bazar Dor
+Product price comparison platform.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+[🌐 Live Demo](https://bazar-dor-omega-ten.vercel.app/) · [💻 Source Code](https://github.com/ProgrammingHero1/B14-A7-Bazar-Dor)
+
+---
+
+### 💪 FitLog
+Explore workouts, save exercises, and manage workout plans.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+[🌐 Live Demo](https://assigment-06-5xa1.vercel.app/) · [💻 Source Code](https://github.com/ProgrammingHero1/B14-A6-Fit-Log)
+
+---
+
+### 🧩 DevStack
+Explore developer technologies and technology stacks.
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+[🌐 Live Demo](https://assignment-5-dev-stack.netlify.app/)
+
+</div>
+
+---
+
+<p align="center">
+  <strong>Building, learning, and growing every day. 🚀</strong>
+</p>
+
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
